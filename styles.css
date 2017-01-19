@@ -1,0 +1,28 @@
+body {
+	background-color: aqua;
+}
+img {
+	max-height: 200px;
+	margin: 120px 50%;
+}
+p {
+	color: dimgray;
+	padding-left: 10%;
+}
+h1 {
+	text-align: center;
+	border-style: outset;
+}
+footer {
+	font-size: .8em;
+}
+.funky {
+	text-align: right;
+	font-family: Veranda;
+	font-style: italic;
+	padding-right: 5%;
+}
+#special {
+	background-color: yellow;
+	font-style: bold;
+}
